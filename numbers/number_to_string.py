@@ -1,4 +1,4 @@
-import helper
+from numbers import helper
 
 """
 Master of Numbers - package to convert a string representation to an integer

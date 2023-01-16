@@ -1,4 +1,4 @@
-import number_to_string
+from numbers import number_to_string
 
 
 p = number_to_string.MasterOfNumbers(int(input("GIVE A NUMBER: ")))
